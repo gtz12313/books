@@ -116,5 +116,8 @@ public class JDBCUtils {
         }
         //必须执行remove操作,否则会出错
         conns.remove();
+        
+        
+        
     }
 }
